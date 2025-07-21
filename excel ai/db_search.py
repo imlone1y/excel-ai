@@ -5,10 +5,10 @@ from sql import return_sql
 
 conn_str = (
     "DRIVER={ODBC Driver 17 for SQL Server};"
-    "SERVER=113.160.202.125;"
-    "DATABASE=VGG_GGF;"
-    "UID=viewer;"
-    "PWD=1qaz@WSX"
+    "SERVER=YOUR_SERVER_IP;"
+    "DATABASE=YOUR_SERVER_DATABASE;"
+    "UID=YOUR_DATABASE_LOGIN;"
+    "PWD=YOUR_DATABASE_PASSWORD"
 )
 
 
